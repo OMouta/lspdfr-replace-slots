@@ -1,2 +1,3 @@
-# lspdfr-replace-slots
-Simple GTA V Legacy / LSPDFR emergency and service vehicle replace-name reference.
+# LSPDFR Replace Slots
+
+A simple list of GTA V Legacy / LSPDFR vehicle replace slot names.
